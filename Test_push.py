@@ -5,4 +5,5 @@ if vd == "yes":
     print("Try to follow the ipynb")
     print("Try to follow the ipynb")
 else:
+    print("TY")
     print("Thank you for visiting, Do check my other repos")
